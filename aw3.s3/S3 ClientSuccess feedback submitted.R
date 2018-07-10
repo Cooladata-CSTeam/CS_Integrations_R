@@ -6,7 +6,7 @@ library(aws.s3)
 library(devtools)
 library(parsedate)
 
-colnames(data) <-c(<”Insert column names here”>)
+colnames(data) <-c("<Insert column names here>")
 
 data$event.time <- format_iso_8601(data$event.time)
 
