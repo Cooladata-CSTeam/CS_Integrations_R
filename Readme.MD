@@ -4,12 +4,20 @@
                      
 ### List of currently available integrations:
 
-Amazon's Web Service
-ACR Affiliates
-Appsflyer
-Awin
-Groupon
-Mailchimp
-Shop Cluster
-Taboola
-Currency Conversions
+* Amazon's Web Service
+
+* ACR Affiliates
+
+* Appsflyer
+
+* Awin
+
+* Groupon
+
+* Mailchimp
+
+* Shop Cluster
+
+* Taboola
+
+* Currency Conversions
