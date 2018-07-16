@@ -1,7 +1,14 @@
-# Integration from Appsflyer to Cooladata :books:  :tv:
+# Integration from Appsflyer to Cooladata
 
 ## Technologies used :  Cooladata , R
                      
 ### This is a sample code that upload daily changes from AppsFlyer to Cooladata 
 
-Code written by Cooladata.com  :blue_book:
+Code written by Cooladata.com  
+
+Using the following code, you can change the time range of the request:
+
+```
+from_date <- Sys.Date()-<Insert number of days back - 1>
+to_date <- Sys.Date()+ 1
+```
