@@ -1,5 +1,3 @@
-#draws data from Groupon's API
-
 library(httr)
 library(XML)
 library(devtools)
