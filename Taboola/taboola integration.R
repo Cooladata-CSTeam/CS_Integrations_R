@@ -31,9 +31,9 @@ token_type
 #Campaign Report
 
 taboola_reports_url <- "https://backstage.taboola.com/backstage/api/1.0/"
-account_name <- "reshet-network"
-campaidn_name <-"visit-value"
-dimension_id <-"landing_page_breakdown"  
+account_name <- "YOUR ACCOUNT HERE"
+campaidn_name <-"campaidn_name"
+dimension_id <-"dimension_id"
 
 
 from_date <- Sys.Date()-1
