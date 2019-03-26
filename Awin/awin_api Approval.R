@@ -7,7 +7,7 @@ library(jsonlite)
 library(plyr)
 
 accessToken <-"<Insert Access Token here>"
-awin_url <- "https://api.awin.com/publishers/311113/transactions/"
+awin_url <- "https://api.awin.com/publishers/9999999/transactions/"
 
 # 4 months ago
 from <- paste0(Sys.Date()-120,"T00:00:00")
