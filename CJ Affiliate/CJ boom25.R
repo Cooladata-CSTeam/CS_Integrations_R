@@ -95,11 +95,11 @@ Commission_Junction_Report$`locking-date` <-as.integer( as.POSIXct(Commission_Ju
 
 # fi website
 
-if (Commission_Junction_Report$`website-id`=="7991782")
+if (Commission_Junction_Report$`website-id`=="9999999999")
 {Commission_Junction_Report$`website-id` <-"5"
-}else if (Commission_Junction_Report$`website-id`=="7991783")
+}else if (Commission_Junction_Report$`website-id`=="88888888888")
 {Commission_Junction_Report$`website-id` <-"6"   
-} else if (Commission_Junction_Report$`website-id`=="7991787")
+} else if (Commission_Junction_Report$`website-id`=="7777777777")
 {Commission_Junction_Report$`website-id`<-"7"   
 }  
 
