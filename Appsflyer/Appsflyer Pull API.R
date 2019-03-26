@@ -12,7 +12,7 @@ to_date <- Sys.Date()+1
 
 ## installs reports Android
 
-appsflyer_url <- "https://hq.appsflyer.com/export/il.co.yellow.app/installs_report/v5"
+appsflyer_url <- "https://hq.appsflyer.com/export/x.y.z.app/installs_report/v5"
 
 appsflyer_report_android<-
   read.csv(paste0(appsflyer_url,"?api_token=",accessToken,
@@ -22,7 +22,7 @@ appsflyer_report_android<-
 
 ## install reports iOS
 
-appsflyer_url <- "https://hq.appsflyer.com/export/id1335568724/installs_report/v5"
+appsflyer_url <- "https://hq.appsflyer.com/export/id99999999/installs_report/v5"
 
 
 appsflyer_report_ios<-
