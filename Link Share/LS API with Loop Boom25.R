@@ -8,8 +8,7 @@ library(plyr)
 
 LS_Token <- "<YOUR TOKEN HERE>"
 
-#url_signature_activity_report <- "https://ran-reporting.rakutenmarketing.com/en/reports/signature-activity-report/filters?include_summary=Y&tz=GMT&date_type=transaction"
-url_signature_orders_report <- "https://ran-reporting.rakutenmarketing.com/en/reports/transactions-report/filters?include_summary=Y&tz=GMT&date_type=transaction"
+url_signature_orders_report <- "https://reporting.marketing.com/en/reports/transactions-report/filters?include_summary=Y&tz=GMT&date_type=transaction"
 
 
 
