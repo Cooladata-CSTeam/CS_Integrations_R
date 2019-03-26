@@ -11,7 +11,7 @@ user <-  "<Insert Username here>"
 pass <- "<Insert Password here>"
 
 
-url <- "http://admin.secure.acraffiliates.com/feeds.php"
+url <- "http://admin.secure.affiliates.com/feeds.php"
 feed_id <- "<Insert feed ID>"
 
 
