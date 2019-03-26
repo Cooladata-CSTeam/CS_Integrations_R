@@ -7,7 +7,7 @@ library(jsonlite)
 library(plyr)
 
 accessToken <-"<Insert Access Token here>"
-awin_url <- "https://api.awin.com/publishers/311113/transactions/"
+awin_url <- "https://api.awin.com/publishers/9999999/transactions/"
 
 
 #From-to Daterange (For now 1 month, can be changed)
